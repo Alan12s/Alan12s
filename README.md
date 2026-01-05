@@ -1,176 +1,146 @@
-<h1 align="center">👋 Hola, soy Alan Rodriguez</h1>
+# <div align="center">👋 ¡Hola! Soy Alan Rodriguez</div>
 
-<p align="center">
-	<a href="https://github.com/AlanRodriguez">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Técnico+en+Desarrollo+de+Software;Full+Stack+Developer;React+|+Vue+|+React+Native;Apasionado+por+la+Tecnología;Siempre+aprendiendo+algo+nuevo&center=true&width=500&height=45&color=2E9EFF&vCenter=true&pause=1000">
-	</a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack;Vue+%7C+React+%7C+React+Native;Backend+con+Django+%7C+Laravel;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo&center=true&width=500&height=50&color=3b82f6&vCenter=true&size=20">
+</div>
 
-<pre>
-💻 Desarrollador Full Stack con pasión por crear soluciones innovadoras
-🎓 Técnico en Desarrollo de Software
+---
+
+## 🚀 Sobre Mí
+
+```
+👨‍💻 Técnico en Desarrollo de Software
 📍 Argentina | 22 años
-🔭 Trabajando con tecnologías modernas como React, Vue y React Native
-🌱 Actualmente profundizando en Java y arquitecturas escalables
-🚀 Enfocado en desarrollo web, móvil y backend robusto
-🎯 Objetivo: Crear aplicaciones que impacten positivamente en la vida de las personas
-</pre>
+💼 Desarrollador Full Stack especializado en aplicaciones web y móviles
+🎯 Enfocado en crear soluciones eficientes y escalables
+🌱 Actualmente profundizando en Java
+⚡ Me apasiona aprender nuevas tecnologías y resolver problemas complejos
+```
 
 ---
 
 ## 💻 Stack Tecnológico
 
-### Frontend
-<div style="margin: 10px 0;">
-  
-**JavaScript** 
-![90%](https://progress-bar.dev/90/?title=Avanzado&width=400&color=F7DF1E)
+### **Frontend Development**
 
-**React** 
-![85%](https://progress-bar.dev/85/?title=Avanzado&width=400&color=61DAFB)
+| Tecnología | Nivel de Dominio |
+|-----------|------------------|
+| **JavaScript** | ![95%](https://progress-bar.dev/95?width=200&color=f7df1e) |
+| **Vue.js** | ![90%](https://progress-bar.dev/90?width=200&color=42b883) |
+| **React** | ![88%](https://progress-bar.dev/88?width=200&color=61dafb) |
+| **React Native** | ![85%](https://progress-bar.dev/85?width=200&color=61dafb) |
+| **HTML5 & CSS3** | ![95%](https://progress-bar.dev/95?width=200&color=e34f26) |
+| **Bootstrap** | ![85%](https://progress-bar.dev/85?width=200&color=7952b3) |
+| **Tailwind CSS v3** | ![90%](https://progress-bar.dev/90?width=200&color=06b6d4) |
 
-**Vue.js** 
-![85%](https://progress-bar.dev/85/?title=Avanzado&width=400&color=4FC08D)
+### **Backend Development**
 
-**React Native** 
-![80%](https://progress-bar.dev/80/?title=Avanzado&width=400&color=61DAFB)
+| Tecnología | Nivel de Dominio |
+|-----------|------------------|
+| **Python** | ![88%](https://progress-bar.dev/88?width=200&color=3776ab) |
+| **Django** | ![85%](https://progress-bar.dev/85?width=200&color=092e20) |
+| **FastAPI** | ![82%](https://progress-bar.dev/82?width=200&color=009688) |
+| **PHP** | ![85%](https://progress-bar.dev/85?width=200&color=777bb4) |
+| **Laravel** | ![88%](https://progress-bar.dev/88?width=200&color=ff2d20) |
+| **CodeIgniter 3 & 4** | ![80%](https://progress-bar.dev/80?width=200&color=ee4623) |
+| **Java** | ![45%](https://progress-bar.dev/45?width=200&color=007396) 🌱 *Aprendiendo* |
+| **Kotlin** | ![70%](https://progress-bar.dev/70?width=200&color=7f52ff) |
 
-**HTML & CSS** 
-![95%](https://progress-bar.dev/95/?title=Experto&width=400&color=E34F26)
+### **Bases de Datos**
 
-**Tailwind CSS** 
-![85%](https://progress-bar.dev/85/?title=Avanzado&width=400&color=38B2AC)
+| Tecnología | Nivel de Dominio |
+|-----------|------------------|
+| **MySQL** | ![88%](https://progress-bar.dev/88?width=200&color=4479a1) |
+| **PostgreSQL** | ![85%](https://progress-bar.dev/85?width=200&color=336791) |
+| **MongoDB** | ![82%](https://progress-bar.dev/82?width=200&color=47a248) |
 
-**Bootstrap** 
-![85%](https://progress-bar.dev/85/?title=Avanzado&width=400&color=7952B3)
+### **Otras Tecnologías**
 
-</div>
-
-### Backend
-<div style="margin: 10px 0;">
-
-**Python** 
-![85%](https://progress-bar.dev/85/?title=Avanzado&width=400&color=3776AB)
-
-**Django** 
-![80%](https://progress-bar.dev/80/?title=Avanzado&width=400&color=092E20)
-
-**FastAPI** 
-![80%](https://progress-bar.dev/80/?title=Avanzado&width=400&color=009688)
-
-**PHP** 
-![75%](https://progress-bar.dev/75/?title=Intermedio-Avanzado&width=400&color=777BB4)
-
-**Laravel** 
-![75%](https://progress-bar.dev/75/?title=Intermedio-Avanzado&width=400&color=FF2D20)
-
-**CodeIgniter 3 & 4** 
-![75%](https://progress-bar.dev/75/?title=Intermedio-Avanzado&width=400&color=EF4223)
-
-**Java** 
-![50%](https://progress-bar.dev/50/?title=Aprendiendo&width=400&color=007396)
-
-</div>
-
-### Móvil
-<div style="margin: 10px 0;">
-
-**Kotlin** 
-![70%](https://progress-bar.dev/70/?title=Intermedio&width=400&color=7F52FF)
-
-**Electron** 
-![75%](https://progress-bar.dev/75/?title=Intermedio-Avanzado&width=400&color=47848F)
-
-</div>
-
-### Bases de Datos
-<div style="margin: 10px 0;">
-
-**MySQL** 
-![85%](https://progress-bar.dev/85/?title=Avanzado&width=400&color=4479A1)
-
-**PostgreSQL** 
-![80%](https://progress-bar.dev/80/?title=Avanzado&width=400&color=336791)
-
-**MongoDB** 
-![75%](https://progress-bar.dev/75/?title=Intermedio-Avanzado&width=400&color=47A248)
-
-</div>
+| Tecnología | Nivel de Dominio |
+|-----------|------------------|
+| **Electron** | ![75%](https://progress-bar.dev/75?width=200&color=47848f) |
+| **Git & GitHub** | ![90%](https://progress-bar.dev/90?width=200&color=f05032) |
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanRodriguez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRodriguez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanRodriguez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌐 Conectemos
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/alanrodriguez/" target="_blank">
-  <img align="center" alt="Alan Rodriguez | LinkedIn" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/AlanRodriguez" target="_blank">
-  <img align="center" alt="Alan Rodriguez | GitHub" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/GitHub.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:alan.rodriguez@email.com">
-  <img align="center" alt="Alan Rodriguez | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlanRodriguez&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
-</div>
-
-<div align="center">
-  
-### 💡 "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
-
-</div>
-
----
+## 🛠️ Herramientas y Tecnologías
 
 <p align="center">
-  <i>Última actualización: Enero 2026</i>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/>
 </p>
 
-[AlanRodriguez](https://github.com/AlanRodriguez)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuUsuario&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Objetivos 2025
+
+- 🔥 Dominar Java y sus frameworks principales
+- 🚀 Contribuir a proyectos open source
+- 📱 Desarrollar aplicaciones móviles más complejas con React Native
+- 🎓 Aprender arquitecturas de microservicios
+- 🌐 Mejorar mis habilidades en DevOps y CI/CD
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-perfil/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/tuUsuario" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/tuUsuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tuUsuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+### 💡 *"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House*
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Última actualización: Enero 2025</sub>
+</div>
