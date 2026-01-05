@@ -2,7 +2,7 @@
 
 ### Hola 🌎, Soy Alan Rodriguez
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello word..&hearts;++;Self-taught+Full-stak+Developer,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 Con más de 1 año de experiencia como Desarrollador Full Stack freelancer, estoy en una misión para crear soluciones tecnológicas que conecten el mundo digital con la vida real! Tengo el poder de desarrollar en frontend y backend, lo que me permite llevar mi magia tanto a startups revolucionarias como a proyectos empresariales gigantes. Me apasiona escribir código limpio y mantenible, diseñando con los usuarios en mente, prosperando en entornos que aman la innovación y el crecimiento profesional continuo. ¡Hagamos brillar la tecnología! 🚀
