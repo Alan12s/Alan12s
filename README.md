@@ -185,21 +185,17 @@ const alan = {
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuUsuario&bg_color=1a1b27&color=a177ff&line=a177ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan12s&bg_color=1a1b27&color=a177ff&line=a177ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan12s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan12s&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuUsuario&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=tuUsuario&theme=tokyonight&no-frame=true&row=1&column=6" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuUsuario&theme=tokyonight" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan12s&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alan12s&theme=tokyonight&no-frame=true&row=1&column=6" width="48%" />
 </div>
 
 <div align="center">
@@ -242,13 +238,13 @@ const alan = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tuUsuario)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuUsuario)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alan12s)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://tu-portfolio.com)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuUsuario&label=Visitas%20al%20Perfil&color=blueviolet&style=for-the-badge" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Alan12s&label=Visitas%20al%20Perfil&color=blueviolet&style=for-the-badge" alt="Visitas al perfil" />
 </div>
 
 <div align="center">
@@ -266,7 +262,7 @@ const alan = {
 
 **¡Gracias por visitar mi perfil! 🚀**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A177FF&center=true&vCenter=true&width=435&lines=Siempre+abierto+a+colaborar;En+proyectos+interesantes;Let's+build+something+amazing!)](https://github.com/tuUsuario)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A177FF&center=true&vCenter=true&width=435&lines=Siempre+abierto+a+colaborar;En+proyectos+interesantes;Let's+build+something+amazing!)](https://github.com/Alan12s)
 
 </div>
 
