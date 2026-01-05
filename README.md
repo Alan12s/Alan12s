@@ -189,18 +189,13 @@ const alan = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan12s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan12s&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alan12s&theme=tokyonight&hide_border=true&show_icons=true&custom_title=GitHub+Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan12s&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Alan12s&theme=tokyonight&no-frame=true&row=1&column=6" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan12s&theme=tokyo-night&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
 ## 🎯 Objetivos 2025
 
